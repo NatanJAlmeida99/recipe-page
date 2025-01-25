@@ -1,13 +1,13 @@
 # Página de receita
 
-<!-- ![preview](./.github/preview.png) -->
+![preview](./assets/projeto.png)
 
 > Formação Full-Stack: Iniciando o HTML e CSS (projeto prático)
 
 O projeto é uma simples página de receita
 
 
-<!-- [🔗 Clique aqui para acessar](link do github pages/) -->
+[🔗 Clique aqui para acessar](https://natanjalmeida99.github.io/recipe-page/)
 
 
 ## 🛠️ Tecnologias
