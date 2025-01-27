@@ -12,7 +12,7 @@ Projeto de uma página de receitas desenvolvido durante as aulas de HTML e CSS n
   <a href="#memo-licença">Licença</a>
 </p>
 
-[🔗 Clique aqui para acessar](https://fel1324.github.io/LocalTuristico/)
+[🔗 Clique aqui para acessar](https://natanjalmeida99.github.io/recipe-page/)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
