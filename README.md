@@ -1,26 +1,38 @@
-# Página de receita
+<p align="center">
+  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
+</p>
 
-![preview](./assets/projeto.png)
+<p align="center">
+Projeto de uma página de receitas desenvolvido durante as aulas de HTML e CSS na Rocketseat.
+</p>
 
-> Formação Full-Stack: Iniciando o HTML e CSS (projeto prático)
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-O projeto é uma simples página de receita
+[🔗 Clique aqui para acessar](https://fel1324.github.io/LocalTuristico/)
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+</p>
 
 
-[🔗 Clique aqui para acessar](https://natanjalmeida99.github.io/recipe-page/)
+## 🚀 Tecnologias
 
-
-## 🛠️ Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- Git e Github
 
+## Projeto
 
-## 💚 Contato
+Nesse projeto iremos desenvolver uma página de receitas para praticar o nosso conhecimento com o HTML e CSS!
 
-natanalmeida158@hotmail.com
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
